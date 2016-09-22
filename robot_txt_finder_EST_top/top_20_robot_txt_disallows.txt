@@ -1,0 +1,21 @@
+Item: / :: Count: 54
+Item: /admin/ :: Count: 17
+Item: /wp-admin/ :: Count: 11
+Item: /mobile/* :: Count: 10
+Item: /*/com/* :: Count: 10
+Item: /search* :: Count: 10
+Item: /includes/ :: Count: 10
+Item: /modules/ :: Count: 10
+Item: /print/* :: Count: 10
+Item: /*/print/* :: Count: 10
+Item: /scripts/ :: Count: 10
+Item: /themes/ :: Count: 7
+Item: /ai :: Count: 7
+Item: /search/ :: Count: 7
+Item: /INSTALL.pgsql.txt :: Count: 6
+Item: /user/register/ :: Count: 6
+Item: /*s2f=1 :: Count: 6
+Item: /xmlrpc.php :: Count: 6
+Item: /user/login/ :: Count: 6
+Item: /INSTALL.txt :: Count: 6
+
